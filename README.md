@@ -1,1 +1,1 @@
-# MambaFormer
+# MSMamba
